@@ -1,0 +1,41 @@
+2021-09-19 11:59:13.264  INFO 11640 --- [main] zegit.me.appclient.AppClientApplication  : Starting AppClientApplication using Java 11.0.11 on DESKTOP-TKNFGPU with PID 11640 (C:\new\dev\java\Spring\dashboard\app-client\target\classes started by hamidze in C:\new\dev\java\Spring\dashboard\app-client)
+2021-09-19 11:59:13.268  INFO 11640 --- [main] zegit.me.appclient.AppClientApplication  : No active profile set, falling back to default profiles: default
+2021-09-19 11:59:15.221  INFO 11640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-09-19 11:59:15.238  INFO 11640 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-19 11:59:15.240  INFO 11640 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-19 11:59:15.367  INFO 11640 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-19 11:59:15.367  INFO 11640 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1992 ms
+2021-09-19 11:59:16.183  WARN 11640 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-09-19 11:59:16.520  INFO 11640 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-19 11:59:16.577  INFO 11640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-09-19 11:59:16.593  INFO 11640 --- [main] zegit.me.appclient.AppClientApplication  : Started AppClientApplication in 4.001 seconds (JVM running for 4.709)
+2021-09-19 12:08:01.632  INFO 9072 --- [main] zegit.me.appclient.AppClientApplication  : Starting AppClientApplication using Java 11.0.11 on DESKTOP-TKNFGPU with PID 9072 (C:\new\dev\java\Spring\dashboard\app-client\target\classes started by hamidze in C:\new\dev\java\Spring\dashboard\app-client)
+2021-09-19 12:08:01.637  INFO 9072 --- [main] zegit.me.appclient.AppClientApplication  : No active profile set, falling back to default profiles: default
+2021-09-19 12:08:03.703  INFO 9072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-09-19 12:08:03.717  INFO 9072 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-19 12:08:03.718  INFO 9072 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-19 12:08:03.846  INFO 9072 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-19 12:08:03.846  INFO 9072 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2112 ms
+2021-09-19 12:08:04.832  WARN 9072 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-09-19 12:08:05.549  INFO 9072 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-19 12:08:05.616  INFO 9072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-09-19 12:08:05.642  INFO 9072 --- [main] zegit.me.appclient.AppClientApplication  : Started AppClientApplication in 4.674 seconds (JVM running for 5.478)
+2021-09-19 12:08:06.433  INFO 9072 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as df359b0766a5
+2021-09-19 12:08:06.700  INFO 9072 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-19 12:08:06.701  INFO 9072 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-19 12:08:06.706  INFO 9072 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-09-19 12:12:26.784  INFO 1432 --- [main] zegit.me.appclient.AppClientApplication  : Starting AppClientApplication using Java 11.0.11 on DESKTOP-TKNFGPU with PID 1432 (C:\new\dev\java\Spring\dashboard\app-client\target\classes started by hamidze in C:\new\dev\java\Spring\dashboard\app-client)
+2021-09-19 12:12:26.786  INFO 1432 --- [main] zegit.me.appclient.AppClientApplication  : No active profile set, falling back to default profiles: default
+2021-09-19 12:12:29.794  INFO 1432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-09-19 12:12:29.817  INFO 1432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-19 12:12:29.818  INFO 1432 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-19 12:12:29.996  INFO 1432 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-19 12:12:29.997  INFO 1432 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3099 ms
+2021-09-19 12:12:30.945  WARN 1432 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-09-19 12:12:31.600  INFO 1432 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-19 12:12:31.997  INFO 1432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-09-19 12:12:32.025  INFO 1432 --- [main] zegit.me.appclient.AppClientApplication  : Started AppClientApplication in 6.035 seconds (JVM running for 7.04)
+2021-09-19 12:12:32.653  INFO 1432 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as df359b0766a5
+2021-09-19 12:12:32.796  INFO 1432 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-19 12:12:32.796  INFO 1432 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-19 12:12:32.798  INFO 1432 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
